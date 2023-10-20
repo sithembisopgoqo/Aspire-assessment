@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\bin\Debug\LibTools.dll.config
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\bin\Debug\LibTools.dll
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\bin\Debug\LibTools.pdb
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\obj\Debug\LibTools.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\obj\Debug\LibTools.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\obj\Debug\LibTools.dll
+C:\Users\User\source\repos\ISBank_Assessment\LibTools\obj\Debug\LibTools.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\bin\Debug\LibTools.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\bin\Debug\LibTools.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\bin\Debug\LibTools.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\obj\Debug\LibTools.csprojAssemblyReference.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\obj\Debug\LibTools.csproj.CoreCompileInputs.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\obj\Debug\LibTools.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\LibTools\obj\Debug\LibTools.pdb

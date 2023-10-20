@@ -1,0 +1,73 @@
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.dll.config
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Abstractions.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Container.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.dll.config
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.dll.config
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.dll.config
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Abstractions.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Container.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csproj.CopyComplete
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.Test.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Abstractions.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Container.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BE.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.BL.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\ISBank_Assessment.DL.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\AutoMapper.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\Unity.Container.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\EntityFramework.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csprojAssemblyReference.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csproj.CoreCompileInputs.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.csproj.CopyComplete
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.Test\obj\Debug\ISBank_Assessment.Test.pdb
