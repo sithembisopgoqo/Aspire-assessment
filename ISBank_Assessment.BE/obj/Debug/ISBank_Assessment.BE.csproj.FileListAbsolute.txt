@@ -1,0 +1,45 @@
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll.config
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.pdb
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.ErrorValidation.resources
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.Validation.resources
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CopyComplete
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.dll
+C:\Users\User\source\repos\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll.config
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.pdb
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.ErrorValidation.resources
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.Validation.resources
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CopyComplete
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.dll
+C:\Users\User\source\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll.config
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\ISBank_Assessment.BE.pdb
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csprojAssemblyReference.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.ErrorValidation.resources
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.Resources.ErrorValidation.Validation.resources
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.GenerateResource.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CoreCompileInputs.cache
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.csproj.CopyComplete
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.dll
+C:\Users\Mapholoba\Desktop\Web Applications\repos\IS-Assessment\ISBank_Assessment\ISBank_Assessment.BE\obj\Debug\ISBank_Assessment.BE.pdb

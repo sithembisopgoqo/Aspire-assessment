@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Accounts] (Table)
+       [dbo].[Accounts].[IX_Account_num] (Index)
+       [dbo].[Persons] (Table)
+       [dbo].[Persons].[IX_Person_id] (Index)
+       [dbo].[Status] (Table)
+       [dbo].[Transactions] (Table)
+       [dbo].[Users] (Table)
+       Foreign Key: unnamed constraint on [dbo].[Accounts] (Foreign Key)
+       [dbo].[FK_Account_Person] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[Persons] (Foreign Key)
+       [dbo].[FK_Transaction_Account] (Foreign Key)
+       [dbo].[stpGetAllTransactions] (Procedure)
+       [dbo].[stpUpdateAccountBalance] (Procedure)
+
+** Supporting actions
